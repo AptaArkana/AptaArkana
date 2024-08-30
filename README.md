@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I thought I was a GUY**
 
-### Blogs posts
+###📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Dunia NLP: Apa Itu Natural Language Processing?](https://medium.com/@ranggasaputra4000/dunia-nlp-apa-itu-natural-language-processing-c24970b34b32?source=rss-8326cfa2c5b7------2)
 - [Data Visualisasi : US Superstore](https://medium.com/@ranggasaputra4000/data-visualisasi-us-superstore-47473656df63?source=rss-8326cfa2c5b7------2)

@@ -21,10 +21,10 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Prediction-Based Text Vectorization : Memahami Konsep Word2Vec&lpar;CBOW dan Skip-Gram&rpar;](https://medium.com/@ranggasaputra4000/prediction-based-text-vectorization-memahami-konsep-word2vec-cbow-dan-skip-gram-fd6b74247e9d?source=rss-8326cfa2c5b7------2)
 - [Frequency-Based Text Vectorization dalam NLP](https://medium.com/@ranggasaputra4000/frequency-based-text-vectorization-dalam-nlp-83caf2a04d0c?source=rss-8326cfa2c5b7------2)
 - [Bertualang di Dunia NLP: Menjelajahi Text Preprocessing](https://medium.com/@ranggasaputra4000/bertualang-di-dunia-nlp-menjelajahi-text-preprocessing-dfac7c5901f2?source=rss-8326cfa2c5b7------2)
 - [Dunia NLP: Apa Itu Natural Language Processing?](https://medium.com/@ranggasaputra4000/dunia-nlp-apa-itu-natural-language-processing-c24970b34b32?source=rss-8326cfa2c5b7------2)
-- [Data Visualisasi : US Superstore](https://medium.com/@ranggasaputra4000/data-visualisasi-us-superstore-47473656df63?source=rss-8326cfa2c5b7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

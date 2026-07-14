@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aptaarkana&label=Profile%20views&color=0e75b6&style=flat" alt="aptaarkana" /> </p>
 
-- 🔭 I’m currently working on **Evello**
-
 - 🌱 I’m currently learning **NLP and Generative AI**
 
 - 📚 I’m interested in **NLP, Machine Learning, Data Science, or Data Analyst**
